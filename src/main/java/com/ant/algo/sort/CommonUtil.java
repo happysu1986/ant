@@ -19,6 +19,6 @@ public class CommonUtil {
             sb.deleteCharAt(sb.length() - 1);
         }
         sb.append("]");
-        System.out.print(sb.toString());
+        System.out.println(sb.toString());
     }
 }
